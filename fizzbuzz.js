@@ -1,3 +1,3 @@
 for(let i = 1; i<16; i++) {
-	console.log('Do fizzbuzz!')
+	console.log(i);
 }
